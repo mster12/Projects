@@ -1,2 +1,2 @@
-# projects
+# Projects
 College Projects
